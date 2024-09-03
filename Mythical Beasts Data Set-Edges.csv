@@ -1,0 +1,459 @@
+﻿Source ID,Target ID,SourceName,TargeName,Source Name Change,Target Name Change,Source Cluster,Target Cluster,Source Jurisdiction,Target Jurisdiction,Source Type,Target Type
+1,2,NSO Group,PFOS Technologies,Unchanged,Unchanged,NSO Group,NSO Group,Israel,United Kingdom,Vendor,Partner
+1,3,NSO Group,L.E.G.D Technologies > Q Cyber Technologies ,Unchanged,Changed,NSO Group,NSO Group,Israel,Israel,Vendor,Vendor
+1,4,NSO Group,Westbridge Technologies ,Unchanged,Unchanged,NSO Group,NSO Group,Israel,United States,Vendor,Vendor
+1,5,NSO Group,Osy Technologies SARL,Unchanged,Unchanged,NSO Group,NSO Group,Israel,Luxembourg,Vendor,Vendor
+1,6,NSO Group,Circles Solutions (Cyprus),Unchanged,Unchanged,NSO Group,NSO Group,Israel,Cyprus,Vendor,Subsidiary
+1,7,NSO Group,Q Cyber Technologies SARL,Unchanged,Unchanged,NSO Group,NSO Group,Israel,Luxembourg,Vendor,Vendor
+1,9,NSO Group,Circles Solutions (Bulgaria),Unchanged,Unchanged,NSO Group,NSO Group,Israel,Bulgaria,Vendor,Subsidiary
+1,10,NSO Group,Convexum,Unchanged,Unchanged,NSO Group,NSO Group,Israel,Israel,Vendor,Subsidiary
+1,11,NSO Group,Sol Security > Dream Security ,Unchanged,Changed,NSO Group,NSO Group,Israel,Israel,Vendor,Partner
+1,12,NSO Group,Dufresne Holdings,Unchanged,Unchanged,NSO Group,NSO Group,Israel,Luxembourg,Vendor,Holding Company
+1,13,NSO Group,Global Seven Group LLC,Unchanged,Unchanged,NSO Group,NSO Group,Israel,British Virgin Islands,Vendor,Holding Company
+1,14,NSO Group,Francisco Partners Management LLC,Unchanged,Unchanged,NSO Group,NSO Group,Israel,United States,Vendor,Investor
+1,15,NSO Group,Jefferies Group LLC ,Unchanged,Unchanged,NSO Group,NSO Group,Israel,United States,Vendor,Investor
+1,16,NSO Group,Novalpina Capital,Unchanged,Unchanged,NSO Group,NSO Group,Israel,United Kingdom,Vendor,Investor
+17,10,Berkely Research Group ,Convexum,Unchanged,Unchanged,NSO Group,NSO Group,United States,Israel,Investor,Subsidiary
+1,13,NSO Group,Global Seven Group LLC,Unchanged,Unchanged,NSO Group,NSO Group,Israel,British Virgin Islands,Vendor,Holding Company
+1,19,NSO Group,Blackstone Group LP,Unchanged,Unchanged,NSO Group,NSO Group,Israel,United States,Vendor,Investor
+21,22,Candiru Ltd > DF Associates > Grindavik Solutions Ltd./Greenwick Solutions Ltd. > Taveta Ltd./Tabatha Ltd. > Saito Tech Ltd.  ,Sokoto Ltd,Changed,Unchanged,Candiru Ltd,Candiru Ltd,Israel,Israel,Vendor,Subsidiary
+21,8,Candiru Ltd > DF Associates > Grindavik Solutions Ltd./Greenwick Solutions Ltd. > Taveta Ltd./Tabatha Ltd. > Saito Tech Ltd.  ,Universal Motors Israel LTD,Changed,Unchanged,Candiru Ltd,Candiru Ltd,Israel,Israel,Vendor,Investor
+21,23,Candiru Ltd > DF Associates > Grindavik Solutions Ltd./Greenwick Solutions Ltd. > Taveta Ltd./Tabatha Ltd. > Saito Tech Ltd.  ,Qatar Investment Authority,Changed,Unchanged,Candiru Ltd,Candiru Ltd,Israel,Qatar,Vendor,Investor
+21,24,Candiru Ltd > DF Associates > Grindavik Solutions Ltd./Greenwick Solutions Ltd. > Taveta Ltd./Tabatha Ltd. > Saito Tech Ltd.  ,Optas Industry Ltd. ESOP,Changed,Unchanged,Candiru Ltd,Candiru Ltd,Israel,Israel,Vendor,Investor
+21,25,Candiru Ltd > DF Associates > Grindavik Solutions Ltd./Greenwick Solutions Ltd. > Taveta Ltd./Tabatha Ltd. > Saito Tech Ltd.  ,Optas Industry Ltd,Changed,Unchanged,Candiru Ltd,Candiru Ltd,Israel,Malta,Vendor,Investor
+21,26,Candiru Ltd > DF Associates > Grindavik Solutions Ltd./Greenwick Solutions Ltd. > Taveta Ltd./Tabatha Ltd. > Saito Tech Ltd.  ,Ibn Hemdat Trusts 1992 Ltd,Changed,Unchanged,Candiru Ltd,Candiru Ltd,Israel,Israel,Vendor,Investor
+21,27,Candiru Ltd > DF Associates > Grindavik Solutions Ltd./Greenwick Solutions Ltd. > Taveta Ltd./Tabatha Ltd. > Saito Tech Ltd.  ,IBI Trust Management,Changed,Unchanged,Candiru Ltd,Candiru Ltd,Israel,Israel,Vendor,Investor
+21,28,Candiru Ltd > DF Associates > Grindavik Solutions Ltd./Greenwick Solutions Ltd. > Taveta Ltd./Tabatha Ltd. > Saito Tech Ltd.  ,Founders Group,Changed,Unchanged,Candiru Ltd,Candiru Ltd,Israel,United States,Vendor,Investor
+21,29,Candiru Ltd > DF Associates > Grindavik Solutions Ltd./Greenwick Solutions Ltd. > Taveta Ltd./Tabatha Ltd. > Saito Tech Ltd.  ,ESOP management and trust services,Changed,Unchanged,Candiru Ltd,Candiru Ltd,Israel,Israel,Vendor,Investor
+30,31,Hacking Team Srl (Italy) > Memento Labs Srl,Hacking Team (United States),Changed,Unchanged,Memento Labs Srl,Memento Labs Srl,Italy,United States,Vendor,Vendor
+30,32,Hacking Team Srl (Italy) > Memento Labs Srl,Grey Heron (United Kingdom),Changed,Unchanged,Memento Labs Srl,Memento Labs Srl,Italy,United Kingdom,Vendor,Vendor
+30,33,Hacking Team Srl (Italy) > Memento Labs Srl,Grey Heron (Italy),Changed,Unchanged,Memento Labs Srl,Memento Labs Srl,Italy,Italy,Vendor,Vendor
+30,34,Hacking Team Srl (Italy) > Memento Labs Srl,Qavar,Changed,Unchanged,Memento Labs Srl,Memento Labs Srl,Italy,Singapore,Vendor,Partner
+30,35,Hacking Team Srl (Italy) > Memento Labs Srl,VASTech,Changed,Unchanged,Memento Labs Srl,VasTech,Italy,South Africa,Vendor,Supplier
+30,36,Hacking Team Srl (Italy) > Memento Labs Srl,Fondo Next,Changed,Unchanged,Memento Labs Srl,Memento Labs Srl,Italy,Italy,Vendor,Investor
+30,37,Hacking Team Srl (Italy) > Memento Labs Srl,Innogest Capital,Changed,Unchanged,Memento Labs Srl,Memento Labs Srl,Italy,Italy,Vendor,Investor
+30,38,Hacking Team Srl (Italy) > Memento Labs Srl,Tablem Limited,Changed,Unchanged,Memento Labs Srl,Memento Labs Srl,Italy,Cyprus,Vendor,Investor
+30,39,Hacking Team Srl (Italy) > Memento Labs Srl,InTheCyber Group fSA (Switzerland),Changed,Unchanged,Memento Labs Srl,Memento Labs Srl,Italy,Switzerland,Vendor,Investor
+30,40,Hacking Team Srl (Italy) > Memento Labs Srl,InTheCyber (Italy),Changed,Unchanged,Memento Labs Srl,Memento Labs Srl,Italy,Italy,Vendor,Investor
+41,42,Gamma Group International SAL ,Elaman ,Unchanged,Unchanged,Gamma Group,Gamma Group,Lebanon ,Germany,Vendor,Supplier
+41,43,Gamma Group International SAL ,Gamma International GmbH > FinFisher Labs Gmbh,Unchanged,Changed,Gamma Group,Gamma Group,Lebanon ,Germany,Vendor,Vendor
+41,44,Gamma Group International SAL ,Raedarius m8 GmbH,Unchanged,Unchanged,Gamma Group,Gamma Group,Lebanon ,Germany,Vendor,Subsidiary
+41,45,Gamma Group International SAL ,So m8 Gmbh,Unchanged,Unchanged,Gamma Group,Gamma Group,Lebanon ,Germany,Vendor,Subsidiary
+41,35,Gamma Group International SAL ,VASTech,Unchanged,Unchanged,Gamma Group,VasTech,Lebanon ,South Africa,Vendor,Supplier
+41,47,Gamma Group International SAL ,Trophy Investments Limited > Gamma 2000,Unchanged,Changed,Gamma Group,Gamma Group,Lebanon ,United Kingdom,Vendor,Holding Company
+41,48,Gamma Group International SAL ,Technical Surveillance Equiptment Limited > Gamma T S E Limited > Global T S E Limited,Unchanged,Changed,Gamma Group,Gamma Group,Lebanon ,United Kingdom,Vendor,Holding Company
+41,49,Gamma Group International SAL ,Computplus Limited,Unchanged,Unchanged,Gamma Group,Gamma Group,Lebanon ,United Kingdom,Vendor,Holding Company
+41,50,Gamma Group International SAL ,B N Management Security Systems Limited > Axciton Europe Limited > Gamma Tema Consultants Limited > G2 SYSTEMS LIMITED,Unchanged,Changed,Gamma Group,Gamma Group,Lebanon ,United Kingdom,Vendor,Holding Company
+41,51,Gamma Group International SAL ,GTSC LTD,Unchanged,Unchanged,Gamma Group,Gamma Group,Lebanon ,Cyprus,Vendor,Holding Company
+41,52,Gamma Group International SAL ,Gamma International (UK) Limited,Unchanged,Unchanged,Gamma Group,Gamma Group,Lebanon ,United Kingdom,Vendor,Holding Company
+41,53,Gamma Group International SAL ,Gamma Group International Limited > Mindstone International LTD,Unchanged,Changed,Gamma Group,Gamma Group,Lebanon ,British Virgin Islands,Vendor,Holding Company
+41,54,Gamma Group International SAL ,FinFisher Limited ,Unchanged,Unchanged,Gamma Group,Gamma Group,Lebanon ,United Kingdom,Vendor,Holding Company
+41,55,Gamma Group International SAL ,FinFisher Holding GmbH > Vilicius Holdings GmbH,Unchanged,Changed,Gamma Group,Gamma Group,Lebanon ,Germany,Vendor,Holding Company
+41,56,Gamma Group International SAL ,AURELIUS Gamma International GmbH,Unchanged,Unchanged,Gamma Group,Gamma Group,Lebanon ,Germany,Vendor,Investor
+57,63,Nexa Technologies > RB 42,Trovicor fz/Trovicor Intelligence,Changed,Unchanged,Intellexa Consortium,Intellexa Consortium,France,United Arab Emirates,Partner,Partner
+57,59,Nexa Technologies > RB 42,Advanced Middle East Systems ,Changed,Unchanged,Intellexa Consortium,Intellexa Consortium,France,United Arab Emirates,Partner,Partner
+57,60,Nexa Technologies > RB 42,Nexa Technologies CZ s.r.o. > Setco Technology Solutions Ltd,Changed,Changed,Intellexa Consortium,Intellexa Consortium,France,Czech Republic,Partner,Partner
+61,58,Cytrox AD,WS Wispear Systems Limited > Passitora Ltd,Unchanged,Changed,Intellexa Consortium,Intellexa Consortium,North Macedonia,Cyprus,Vendor,Partner
+61,67,Cytrox AD,Cytrox Holdings Zrt,Unchanged,Unchanged,Intellexa Consortium,Intellexa Consortium,North Macedonia,Hungary,Vendor,Holding Company
+61,66,Cytrox AD,Cytrox Software Ltd > Peterbald Ltd,Unchanged,Changed,Intellexa Consortium,Intellexa Consortium,North Macedonia,Israel,Vendor,Holding Company
+61,68,Cytrox AD,Cytrox EMEA Ltd > Balinese Ltd,Unchanged,Changed,Intellexa Consortium,Intellexa Consortium,North Macedonia,Israel,Vendor,Holding Company
+58,71,WS Wispear Systems Limited > Passitora Ltd,Aliada Group Inc.,Changed,Unchanged,Intellexa Consortium,Intellexa Consortium,Cyprus,British Virgin Islands,Partner,Investor
+71,74,Aliada Group Inc.,Miros Development Group,Unchanged,Unchanged,Intellexa Consortium,Intellexa Consortium,British Virgin Islands,British Virgin Islands,Investor,Investor
+74,75,Miros Development Group,Thalestris Limited,Unchanged,Unchanged,Intellexa Consortium,Intellexa Consortium,British Virgin Islands,Ireland,Investor,Investor
+76,77,Quadream Inc,InReach Technologies Limited,Unchanged,Unchanged,Quadream Inc; InReach Technologies Limited,Quadream Inc; InReach Technologies Limited,Israel,Cyprus,Vendor,Supplier
+76,78,Quadream Inc,A.I.L Nominee Services Ltd (A.I.L),Unchanged,Unchanged,Quadream Inc; InReach Technologies Limited,Quadream Inc; InReach Technologies Limited,Israel,Cyprus,Vendor,Holding Company
+76,79,Quadream Inc,DW Ventures,Unchanged,Unchanged,Quadream Inc; InReach Technologies Limited,Quadream Inc; InReach Technologies Limited,Israel,Israel,Vendor,Holding Company
+76,80,Quadream Inc,Zovisel > Cycotech Ltd,Unchanged,Changed,Quadream Inc; InReach Technologies Limited,Quadream Inc; InReach Technologies Limited,Israel,Cyprus,Vendor,Holding Company
+81,1,Niv Karmi,NSO Group,Unchanged,Unchanged,NSO Group,NSO Group,0,Israel,Individual,Vendor
+82,1,Omri Lavie,NSO Group,Unchanged,Unchanged,NSO Group,NSO Group,0,Israel,Individual,Vendor
+83,1,Shalev Hulio ,NSO Group,Unchanged,Unchanged,NSO Group,NSO Group,0,Israel,Individual,Vendor
+84,1,Eddy Shalev ,NSO Group,Unchanged,Unchanged,NSO Group,NSO Group,0,Israel,Individual,Vendor
+85,1,Shiri Dolev,NSO Group,Unchanged,Unchanged,NSO Group,NSO Group,0,Israel,Individual,Vendor
+86,10,Gilad Sahar,Convexum,Unchanged,Unchanged,NSO Group,NSO Group,0,Israel,Individual,Subsidiary
+87,10,Niv Magen,Convexum,Unchanged,Unchanged,NSO Group,NSO Group,0,Israel,Individual,Subsidiary
+88,10,Tom Gol,Convexum,Unchanged,Unchanged,NSO Group,NSO Group,0,Israel,Individual,Subsidiary
+89,11,Individual,Sol Security > Dream Security ,Unchanged,Changed,NSO Group,NSO Group,0,Israel,Individual,Partner
+90,1,Yaron Shohat,NSO Group,Unchanged,Unchanged,NSO Group,NSO Group,0,Israel,Individual,Vendor
+82,12,Omri Lavie,Dufresne Holdings,Unchanged,Unchanged,NSO Group,NSO Group,0,Luxembourg,Individual,Holding Company
+83,11,Shalev Hulio ,Sol Security > Dream Security ,Unchanged,Changed,NSO Group,NSO Group,0,Israel,Individual,Partner
+14,91,Francisco Partners Management LLC,Individual,Unchanged,Unchanged,NSO Group,NSO Group,United States,0,Investor,Individual
+14,92,Francisco Partners Management LLC,Individual,Unchanged,Unchanged,NSO Group,NSO Group,United States,0,Investor,Individual
+16,93,Novalpina Capital,Stefan Kowskin,Unchanged,Unchanged,NSO Group,NSO Group,United Kingdom,0,Investor,Individual
+16,94,Novalpina Capital,Bastian Lueken ,Unchanged,Unchanged,NSO Group,NSO Group,United Kingdom,0,Investor,Individual
+16,95,Novalpina Capital,Stephen Peel ,Unchanged,Unchanged,NSO Group,NSO Group,United Kingdom,0,Investor,Individual
+16,96,Novalpina Capital,Individual,Unchanged,Unchanged,NSO Group,NSO Group,United Kingdom,0,Investor,Individual
+107,97,Individual Investor,Interionet Systems Ltd,Unchanged,Unchanged,Interionet,Interionet,0,Israel,Investor,Vendor
+108,97,Individual Investor,Interionet Systems Ltd,Unchanged,Unchanged,Interionet,Interionet,0,Israel,Investor,Vendor
+109,97,Individual Investor,Interionet Systems Ltd,Unchanged,Unchanged,Interionet,Interionet,0,Israel,Investor,Vendor
+110,97,Individual Investor,Interionet Systems Ltd,Unchanged,Unchanged,Interionet,Interionet,0,Israel,Investor,Vendor
+111,97,Individual Investor,Interionet Systems Ltd,Unchanged,Unchanged,Interionet,Interionet,0,Israel,Investor,Vendor
+112,97,Individual Investor,Interionet Systems Ltd,Unchanged,Unchanged,Interionet,Interionet,0,Israel,Investor,Vendor
+113,97,Individual Investor,Interionet Systems Ltd,Unchanged,Unchanged,Interionet,Interionet,0,Israel,Investor,Vendor
+114,97,Individual Investor,Interionet Systems Ltd,Unchanged,Unchanged,Interionet,Interionet,0,Israel,Investor,Vendor
+115,97,Individual Investor,Interionet Systems Ltd,Unchanged,Unchanged,Interionet,Interionet,0,Israel,Investor,Vendor
+116,97,Individual Investor,Interionet Systems Ltd,Unchanged,Unchanged,Interionet,Interionet,0,Israel,Investor,Vendor
+117,97,Individual Investor,Interionet Systems Ltd,Unchanged,Unchanged,Interionet,Interionet,0,Israel,Investor,Vendor
+118,97,Individual Investor,Interionet Systems Ltd,Unchanged,Unchanged,Interionet,Interionet,0,Israel,Investor,Vendor
+119,97,Individual Investor,Interionet Systems Ltd,Unchanged,Unchanged,Interionet,Interionet,0,Israel,Investor,Vendor
+120,97,Individual Investor,Interionet Systems Ltd,Unchanged,Unchanged,Interionet,Interionet,0,Israel,Investor,Vendor
+121,97,Individual Investor,Interionet Systems Ltd,Unchanged,Unchanged,Interionet,Interionet,0,Israel,Investor,Vendor
+122,97,Individual Investor,Interionet Systems Ltd,Unchanged,Unchanged,Interionet,Interionet,0,Israel,Investor,Vendor
+123,97,Individual Investor,Interionet Systems Ltd,Unchanged,Unchanged,Interionet,Interionet,0,Israel,Investor,Vendor
+124,97,Individual Investor,Interionet Systems Ltd,Unchanged,Unchanged,Interionet,Interionet,0,Israel,Investor,Vendor
+98,97,Yair Pecht,Interionet Systems Ltd,Unchanged,Unchanged,Interionet,Interionet,0,Israel,Individual,Vendor
+99,97,Sharon Oknin,Interionet Systems Ltd,Unchanged,Unchanged,Interionet,Interionet,0,Israel,Individual,Vendor
+100,97,Joshua Lesher,Interionet Systems Ltd,Unchanged,Unchanged,Interionet,Interionet,0,Israel,Individual,Vendor
+101,97,David Fischler,Interionet Systems Ltd,Unchanged,Unchanged,Interionet,Interionet,0,Israel,Individual,Vendor
+125,29,Individual,ESOP management and trust services,Unchanged,Unchanged,Candiru Ltd,Candiru Ltd,0,Israel,Individual,Investor
+126,29,Individual,ESOP management and trust services,Unchanged,Unchanged,Candiru Ltd,Candiru Ltd,0,Israel,Individual,Investor
+127,29,Individual,ESOP management and trust services,Unchanged,Unchanged,Candiru Ltd,Candiru Ltd,0,Israel,Individual,Investor
+128,29,Individual,ESOP management and trust services,Unchanged,Unchanged,Candiru Ltd,Candiru Ltd,0,Israel,Individual,Investor
+129,8,Individual,Universal Motors Israel LTD,Unchanged,Unchanged,Candiru Ltd,Candiru Ltd,0,Israel,Individual,Investor
+130,8,Individual,Universal Motors Israel LTD,Unchanged,Unchanged,Candiru Ltd,Candiru Ltd,0,Israel,Individual,Investor
+131,21,Ya’acov Weitzman ,Candiru Ltd > DF Associates > Grindavik Solutions Ltd./Greenwick Solutions Ltd. > Taveta Ltd./Tabatha Ltd. > Saito Tech Ltd.  ,Unchanged,Changed,Candiru Ltd,Candiru Ltd,0,Israel,Individual,Vendor
+132,21,Eran Shorer ,Candiru Ltd > DF Associates > Grindavik Solutions Ltd./Greenwick Solutions Ltd. > Taveta Ltd./Tabatha Ltd. > Saito Tech Ltd.  ,Unchanged,Changed,Candiru Ltd,Candiru Ltd,0,Israel,Individual,Vendor
+133,21,Individual,Candiru Ltd > DF Associates > Grindavik Solutions Ltd./Greenwick Solutions Ltd. > Taveta Ltd./Tabatha Ltd. > Saito Tech Ltd.  ,Unchanged,Changed,Candiru Ltd,Candiru Ltd,0,Israel,Individual,Vendor
+134,21,Individual,Candiru Ltd > DF Associates > Grindavik Solutions Ltd./Greenwick Solutions Ltd. > Taveta Ltd./Tabatha Ltd. > Saito Tech Ltd.  ,Unchanged,Changed,Candiru Ltd,Candiru Ltd,0,Israel,Individual,Vendor
+106,104,Individual Investor,Mikael Ltd.,Unchanged,Unchanged,Interionet,Interionet,0,United Kingdom,Investor,Investor
+102,97,Net Capital Ventures,Interionet Systems Ltd,Unchanged,Unchanged,Interionet,Interionet,Israel,Israel,Investor,Vendor
+103,97,NME Investments Limited,Interionet Systems Ltd,Unchanged,Unchanged,Interionet,Interionet,British Virgin Islands,Israel,Investor,Vendor
+104,97,Mikael Ltd.,Interionet Systems Ltd,Unchanged,Unchanged,Interionet,Interionet,United Kingdom,Israel,Investor,Vendor
+105,97,Altshuler Shaham Trusts Ltd.,Interionet Systems Ltd,Unchanged,Unchanged,Interionet,Interionet,Israel,Israel,Investor,Vendor
+105,135,Altshuler Shaham Trusts Ltd.,Individual Investor,Unchanged,Unchanged,Interionet,Interionet,Israel,0,Investor,Investor
+105,136,Altshuler Shaham Trusts Ltd.,Individual Investor,Unchanged,Unchanged,Interionet,Interionet,Israel,0,Investor,Investor
+105,137,Altshuler Shaham Trusts Ltd.,Individual Investor,Unchanged,Unchanged,Interionet,Interionet,Israel,0,Investor,Investor
+98,1,Yair Pecht,NSO Group,Unchanged,Unchanged,Interionet,NSO Group,0,Israel,Individual,Vendor
+99,1,Sharon Oknin,NSO Group,Unchanged,Unchanged,Interionet,NSO Group,0,Israel,Individual,Vendor
+138,1,Erdinast Giora,NSO Group,Unchanged,Unchanged,Candiru Ltd,NSO Group,0,Israel,Individual,Vendor
+138,26,Erdinast Giora,Ibn Hemdat Trusts 1992 Ltd,Unchanged,Unchanged,Candiru Ltd,Candiru Ltd,0,Israel,Individual,Investor
+139,47,Karen Jean Seymour ,Trophy Investments Limited > Gamma 2000,Unchanged,Changed,Gamma Group,Gamma Group,0,United Kingdom,Individual,Holding Company
+140,47,William Louthean Nelson ,Trophy Investments Limited > Gamma 2000,Unchanged,Changed,Gamma Group,Gamma Group,0,United Kingdom,Individual,Holding Company
+139,52,Karen Jean Seymour ,Gamma International (UK) Limited,Unchanged,Unchanged,Gamma Group,Gamma Group,0,United Kingdom,Individual,Holding Company
+140,54,William Louthean Nelson ,FinFisher Limited ,Unchanged,Unchanged,Gamma Group,Gamma Group,0,United Kingdom,Individual,Holding Company
+141,52,John Hadjicostas,Gamma International (UK) Limited,Unchanged,Unchanged,Gamma Group,Gamma Group,0,United Kingdom,Individual,Holding Company
+140,52,William Louthean Nelson ,Gamma International (UK) Limited,Unchanged,Unchanged,Gamma Group,Gamma Group,0,United Kingdom,Individual,Holding Company
+142,56,Individual,AURELIUS Gamma International GmbH,Unchanged,Unchanged,Gamma Group,Gamma Group,0,Germany,Individual,Investor
+143,56,Individual,AURELIUS Gamma International GmbH,Unchanged,Unchanged,Gamma Group,Gamma Group,0,Germany,Individual,Investor
+100,1,Joshua Lesher,NSO Group,Unchanged,Unchanged,Interionet,NSO Group,0,Israel,Individual,Vendor
+101,1,David Fischler,NSO Group,Unchanged,Unchanged,Interionet,NSO Group,0,Israel,Individual,Vendor
+144,58,Tal Dilian,WS Wispear Systems Limited > Passitora Ltd,Unchanged,Changed,Intellexa Consortium,Intellexa Consortium,0,Cyprus,Individual,Partner
+145,58,Georgios Georgioy ,WS Wispear Systems Limited > Passitora Ltd,Unchanged,Changed,Intellexa Consortium,Intellexa Consortium,0,Cyprus,Individual,Partner
+146,61,Rotem Farkash,Cytrox AD,Unchanged,Unchanged,Intellexa Consortium,Intellexa Consortium,0,North Macedonia,Individual,Vendor
+147,61,Abraham Rubinstein,Cytrox AD,Unchanged,Unchanged,Intellexa Consortium,Intellexa Consortium,0,North Macedonia,Individual,Vendor
+144,71,Tal Dilian,Aliada Group Inc.,Unchanged,Unchanged,Intellexa Consortium,Intellexa Consortium,0,British Virgin Islands,Individual,Investor
+148,71,Individual,Aliada Group Inc.,Unchanged,Unchanged,Intellexa Consortium,Intellexa Consortium,0,British Virgin Islands,Individual,Investor
+149,71,Individual,Aliada Group Inc.,Unchanged,Unchanged,Intellexa Consortium,Intellexa Consortium,0,British Virgin Islands,Individual,Investor
+150,71,Individual,Aliada Group Inc.,Unchanged,Unchanged,Intellexa Consortium,Intellexa Consortium,0,British Virgin Islands,Individual,Investor
+151,66,Individual,Cytrox Software Ltd > Peterbald Ltd,Unchanged,Changed,Intellexa Consortium,Intellexa Consortium,0,Israel,Individual,Holding Company
+151,68,Individual,Cytrox EMEA Ltd > Balinese Ltd,Unchanged,Changed,Intellexa Consortium,Intellexa Consortium,0,Israel,Individual,Holding Company
+152,75,Sara Hamou,Thalestris Limited,Unchanged,Unchanged,Intellexa Consortium,Intellexa Consortium,0,Ireland,Individual,Investor
+71,58,Aliada Group Inc.,WS Wispear Systems Limited > Passitora Ltd,Unchanged,Changed,Intellexa Consortium,Intellexa Consortium,British Virgin Islands,Cyprus,Investor,Partner
+73,63,Boss Industries SAS,Trovicor fz/Trovicor Intelligence,Unchanged,Unchanged,Intellexa Consortium,Intellexa Consortium,France,United Arab Emirates,Investor,Partner
+73,59,Boss Industries SAS,Advanced Middle East Systems ,Unchanged,Unchanged,Intellexa Consortium,Intellexa Consortium,France,United Arab Emirates,Investor,Partner
+73,57,Boss Industries SAS,Nexa Technologies > RB 42,Unchanged,Changed,Intellexa Consortium,Intellexa Consortium,France,France,Investor,Partner
+57,60,Nexa Technologies > RB 42,Nexa Technologies CZ s.r.o. > Setco Technology Solutions Ltd,Changed,Changed,Intellexa Consortium,Intellexa Consortium,France,Czech Republic,Partner,Partner
+152,144,Sara Hamou,Tal Dilian,Unchanged,Unchanged,Intellexa Consortium,Intellexa Consortium,0,0,Individual,Individual
+62,144,Senpai Technologies Ltd,Tal Dilian,Unchanged,Unchanged,Intellexa Consortium,Intellexa Consortium,Israel,0,Partner,Individual
+64,152,Intellexa S.A.,Sara Hamou,Unchanged,Unchanged,Intellexa Consortium,Intellexa Consortium,Greece,0,Vendor,Individual
+64,144,Intellexa S.A.,Tal Dilian,Unchanged,Unchanged,Intellexa Consortium,Intellexa Consortium,Greece,0,Vendor,Individual
+144,6,Tal Dilian,Circles Solutions (Cyprus),Unchanged,Unchanged,Intellexa Consortium,NSO Group,0,Cyprus,Individual,Subsidiary
+153,64,Intellexa Ltd (British Virgin Islands),Intellexa S.A.,Unchanged,Unchanged,Intellexa Consortium,Intellexa Consortium,0,Greece,Holding Company,Vendor
+154,64,Intellexa Ltd (Ireland),Intellexa S.A.,Unchanged,Unchanged,Intellexa Consortium,Intellexa Consortium,0,Greece,Holding Company,Vendor
+154,152,Intellexa Ltd (Ireland),Sara Hamou,Unchanged,Unchanged,Intellexa Consortium,Intellexa Consortium,0,0,Holding Company,Individual
+155,30,David Vincenzetti,Hacking Team Srl (Italy) > Memento Labs Srl,Unchanged,Changed,Memento Labs Srl,Memento Labs Srl,0,Italy,Individual,Vendor
+156,30,Valeriano Bedeschi,Hacking Team Srl (Italy) > Memento Labs Srl,Unchanged,Changed,Memento Labs Srl,Memento Labs Srl,0,Italy,Individual,Vendor
+157,34,Individual,Qavar,Unchanged,Unchanged,Memento Labs Srl,Memento Labs Srl,0,Singapore,Individual,Partner
+158,35,Individual,VASTech,Unchanged,Unchanged,VasTech,VasTech,0,South Africa,Individual,Supplier
+159,30,Individual,Hacking Team Srl (Italy) > Memento Labs Srl,Unchanged,Changed,Memento Labs Srl,Memento Labs Srl,0,Italy,Individual,Vendor
+160,30,Individual,Hacking Team Srl (Italy) > Memento Labs Srl,Unchanged,Changed,Memento Labs Srl,Memento Labs Srl,0,Italy,Individual,Vendor
+161,33,Individual,Grey Heron (Italy),Unchanged,Unchanged,Memento Labs Srl,Memento Labs Srl,0,Italy,Individual,Vendor
+162,38,Abdullah Al-Qahtani,Tablem Limited,Unchanged,Unchanged,Memento Labs Srl,Memento Labs Srl,0,Cyprus,Individual,Investor
+163,38,Khalid Al-Thebity,Tablem Limited,Unchanged,Unchanged,Memento Labs Srl,Memento Labs Srl,0,Cyprus,Individual,Investor
+164,39,Paulo Lezzi,InTheCyber Group fSA (Switzerland),Unchanged,Unchanged,Memento Labs Srl,Memento Labs Srl,0,Switzerland,Individual,Investor
+164,30,Paulo Lezzi,Hacking Team Srl (Italy) > Memento Labs Srl,Unchanged,Changed,Memento Labs Srl,Memento Labs Srl,0,Italy,Individual,Vendor
+165,57,Serpikom SAS ,Nexa Technologies > RB 42,Unchanged,Changed,Intellexa Consortium,Intellexa Consortium,France,France,Partner,Partner
+35,166,VASTech,VASTech ME,Unchanged,Unchanged,VasTech,VasTech,South Africa,United Arab Emirates,Supplier,Partner
+35,167,VASTech,VASTech SPC,Unchanged,Unchanged,VasTech,VasTech,South Africa,Oman,Supplier,Partner
+35,168,VASTech,VASTech AG,Unchanged,Unchanged,VasTech,VasTech,South Africa,Switzerland,Supplier,Partner
+35,169,VASTech,Individual,Unchanged,Unchanged,VasTech,VasTech,South Africa,0,Supplier,Individual
+35,170,VASTech,Frans Dreyer ,Unchanged,Unchanged,VasTech,VasTech,South Africa,0,Supplier,Individual
+168,171,VASTech AG,Peter Habertheuer ,Unchanged,Unchanged,VasTech,VasTech,Switzerland,0,Partner,Individual
+35,172,VASTech,Individual,Unchanged,Unchanged,VasTech,VasTech,South Africa,0,Supplier,Individual
+168,173,VASTech AG,Divian Emmanuel Dreyer ,Unchanged,Unchanged,VasTech,VasTech,Switzerland,0,Partner,Individual
+35,174,VASTech,South African Government - Department of Trade and Industry,Unchanged,Unchanged,VasTech,VasTech,South Africa,South Africa,Supplier,Investor
+35,158,VASTech,Individual,Unchanged,Unchanged,VasTech,VasTech,South Africa,0,Supplier,Individual
+175,76,Guy Geva,Quadream Inc,Unchanged,Unchanged,Quadream Inc; InReach Technologies Limited,Quadream Inc; InReach Technologies Limited,0,Israel,Individual,Vendor
+176,76,Nimrod Reznik ,Quadream Inc,Unchanged,Unchanged,Quadream Inc; InReach Technologies Limited,Quadream Inc; InReach Technologies Limited,0,Israel,Individual,Vendor
+177,76,Ilan Dabelstein,Quadream Inc,Unchanged,Unchanged,Quadream Inc; InReach Technologies Limited,Quadream Inc; InReach Technologies Limited,0,Israel,Individual,Vendor
+178,77,Nenad Grozdanic ,InReach Technologies Limited,Unchanged,Unchanged,Quadream Inc; InReach Technologies Limited,Quadream Inc; InReach Technologies Limited,0,Cyprus,Individual,Supplier
+179,77,Christos Shiakallis,InReach Technologies Limited,Unchanged,Unchanged,Quadream Inc; InReach Technologies Limited,Quadream Inc; InReach Technologies Limited,0,Cyprus,Individual,Supplier
+180,77,Doron Breiter,InReach Technologies Limited,Unchanged,Unchanged,Quadream Inc; InReach Technologies Limited,Quadream Inc; InReach Technologies Limited,0,Cyprus,Individual,Supplier
+181,78,Savvas Angelides ,A.I.L Nominee Services Ltd (A.I.L),Unchanged,Unchanged,Quadream Inc; InReach Technologies Limited,Quadream Inc; InReach Technologies Limited,0,Cyprus,Individual,Holding Company
+182,78,Individual,A.I.L Nominee Services Ltd (A.I.L),Unchanged,Unchanged,Quadream Inc; InReach Technologies Limited,Quadream Inc; InReach Technologies Limited,0,Cyprus,Individual,Holding Company
+183,79,Ori Ashkenazi,DW Ventures,Unchanged,Unchanged,Quadream Inc; InReach Technologies Limited,Quadream Inc; InReach Technologies Limited,0,Israel,Individual,Holding Company
+184,80,Roy Glasberg Keller,Zovisel > Cycotech Ltd,Unchanged,Changed,Quadream Inc; InReach Technologies Limited,Quadream Inc; InReach Technologies Limited,0,Cyprus,Individual,Holding Company
+186,187,Paragon Solutions,Paragon Solutions US,Unchanged,Unchanged,Paragon,Paragon,Israel,United States,Vendor,Subsidiary
+186,188,Paragon Solutions,Ehud Schneorson ,Unchanged,Unchanged,Paragon,Paragon,Israel,0,Vendor,Individual
+186,189,Paragon Solutions,Idan Nurick,Unchanged,Unchanged,Paragon,Paragon,Israel,0,Vendor,Individual
+186,190,Paragon Solutions,Igor Bogudlov,Unchanged,Unchanged,Paragon,Paragon,Israel,0,Vendor,Individual
+186,191,Paragon Solutions,Liad Avraham,Unchanged,Unchanged,Paragon,Paragon,Israel,0,Vendor,Individual
+186,198,Paragon Solutions,Individual,Unchanged,Unchanged,Paragon,Paragon,Israel,0,Vendor,Individual
+186,192,Paragon Solutions,Battery Ventures (Israel),Unchanged,Unchanged,Paragon,Paragon,Israel,Israel,Vendor,Investor
+186,193,Paragon Solutions,Battery Ventures (United Kingdom),Unchanged,Unchanged,Paragon,Paragon,Israel,United Kingdom,Vendor,Investor
+186,194,Paragon Solutions,Battery Ventures (United States),Unchanged,Unchanged,Paragon,Paragon,Israel,United States,Vendor,Investor
+186,195,Paragon Solutions,Blumberg Capital,Unchanged,Unchanged,Paragon,Paragon,Israel,United States,Vendor,Investor
+186,196,Paragon Solutions,Red Dot Capital,Unchanged,Unchanged,Paragon,Paragon,Israel,Israel,Vendor,Investor
+192,197,Battery Ventures (Israel),Aaron Rinberg ,Unchanged,Unchanged,Paragon,Paragon,Israel,0,Investor,Individual
+193,197,Battery Ventures (United Kingdom),Aaron Rinberg ,Unchanged,Unchanged,Paragon,Paragon,United Kingdom,0,Investor,Individual
+194,197,Battery Ventures (United States),Aaron Rinberg ,Unchanged,Unchanged,Paragon,Paragon,United States,0,Investor,Individual
+199,200,Verint Systems Inc.,UTX Technologies Limited,Unchanged,Unchanged,Cognyte,Cognyte,United States,Cyprus,Vendor,Subsidiary
+199,201,Verint Systems Inc.,Blink,Unchanged,Unchanged,Cognyte,Cognyte,United States,Israel,Vendor,Subsidiary
+199,202,Verint Systems Inc.,Cognyte Software Ltd. (United States),Unchanged,Unchanged,Cognyte,Cognyte,United States,United States,Vendor,Subsidiary
+199,203,Verint Systems Inc.,Verint Systems Ltd.,Unchanged,Unchanged,Cognyte,Cognyte,United States,Israel,Vendor,Vendor
+199,204,Verint Systems Inc.,ACE Labs,Unchanged,Unchanged,Cognyte,Cognyte,United States,0,Vendor,Subsidiary
+199,205,Verint Systems Inc.,Cognyte Software Ltd. (Israel),Unchanged,Unchanged,Cognyte,Cognyte,United States,Israel,Vendor,Vendor
+199,207,Verint Systems Inc.,Cognyte Brasil S.A.,Unchanged,Unchanged,Cognyte,Cognyte,United States,Brazil,Vendor,Subsidiary
+199,208,Verint Systems Inc.,Cognyte Bulgaria EOOD,Unchanged,Unchanged,Cognyte,Cognyte,United States,Bulgaria,Vendor,Subsidiary
+199,209,Verint Systems Inc.,Cognyte Canada Inc.,Unchanged,Unchanged,Cognyte,Cognyte,United States,Canada,Vendor,Subsidiary
+199,210,Verint Systems Inc.,Cognyte Software LP,Unchanged,Unchanged,Cognyte,Cognyte,United States,United States,Vendor,Subsidiary
+199,211,Verint Systems Inc.,"Cognyte Software México, S.A. de C.V.",Unchanged,Unchanged,Cognyte,Cognyte,United States,Mexico,Vendor,Subsidiary
+199,212,Verint Systems Inc.,Cognyte Software UK Limited,Unchanged,Unchanged,Cognyte,Cognyte,United States,United Kingdom,Vendor,Subsidiary
+199,213,Verint Systems Inc.,Cognyte Solutions Ltd.    ,Unchanged,Unchanged,Cognyte,Cognyte,United States,Israel,Vendor,Subsidiary
+199,214,Verint Systems Inc.,Cognyte Systems Ltd.,Unchanged,Unchanged,Cognyte,Cognyte,United States,Israel,Vendor,Subsidiary
+199,215,Verint Systems Inc.,Cognyte Taiwan Ltd.,Unchanged,Unchanged,Cognyte,Cognyte,United States,Taiwan,Vendor,Subsidiary
+199,216,Verint Systems Inc.,Cognyte Technologies Israel Ltd.    ,Unchanged,Unchanged,Cognyte,Cognyte,United States,Israel,Vendor,Subsidiary
+199,217,Verint Systems Inc.,Cognyte Technology Inc.    ,Unchanged,Unchanged,Cognyte,Cognyte,United States,United States,Vendor,Subsidiary
+199,218,Verint Systems Inc.,Focal Info Israel Ltd. (In dissolution)    ,Unchanged,Unchanged,Cognyte,Cognyte,United States,Israel,Vendor,Subsidiary
+199,219,Verint Systems Inc.,Gita Technologies Ltd.,Unchanged,Unchanged,Cognyte,Cognyte,United States,Israel,Vendor,Subsidiary
+199,220,Verint Systems Inc.,Syborg GmbH    ,Unchanged,Unchanged,Cognyte,Cognyte,United States,Germany,Vendor,Subsidiary
+199,221,Verint Systems Inc.,Syborg Grundbesitz GmbH,Unchanged,Unchanged,Cognyte,Cognyte,United States,Germany,Vendor,Subsidiary
+199,222,Verint Systems Inc.,Syborg Informationsysteme b.h. OHG,Unchanged,Unchanged,Cognyte,Cognyte,United States,Germany,Vendor,Subsidiary
+199,224,Verint Systems Inc.,Cognyte Netherlands B.V.    ,Unchanged,Unchanged,Cognyte,Cognyte,United States,Netherlands,Vendor,Subsidiary
+199,225,Verint Systems Inc.,Cognyte Romania S.R.L.    ,Unchanged,Unchanged,Cognyte,Cognyte,United States,Romania,Vendor,Subsidiary
+199,242,Verint Systems Inc.,Comverse Technology Inc.,Unchanged,Unchanged,Cognyte,Cognyte,United States,United States,Vendor,Holding Company
+199,243,Verint Systems Inc.,Vista Equity Partners,Unchanged,Unchanged,Cognyte,Cognyte,United States,United States,Vendor,Investor
+199,244,Verint Systems Inc.,Valor Parent LP/ Apax Funds of Apax Partners,Unchanged,Unchanged,Cognyte,Cognyte,United States,United Kingdom,Vendor,Investor
+199,245,Verint Systems Inc.,Neuberger Berman Group LLC ,Unchanged,Unchanged,Cognyte,Cognyte,United States,United States,Vendor,Investor
+199,247,Verint Systems Inc.,Norwegian Government Pension Fund Global,Unchanged,Unchanged,Cognyte,Cognyte,United States,Norway,Vendor,Investor
+227,199,Udi Levy,Verint Systems Inc.,Unchanged,Unchanged,Cognyte,Cognyte,0,United States,Individual,Vendor
+228,199,Shay Attias,Verint Systems Inc.,Unchanged,Unchanged,Cognyte,Cognyte,0,United States,Individual,Vendor
+229,201,Yuval Altman,Blink,Unchanged,Unchanged,Cognyte,Cognyte,0,Israel,Individual,Subsidiary
+230,199,Jason Wright ,Verint Systems Inc.,Unchanged,Unchanged,Cognyte,Cognyte,0,United States,Individual,Vendor
+231,205,Elad Sharon ,Cognyte Software Ltd. (Israel),Unchanged,Unchanged,Cognyte,Cognyte,0,Israel,Individual,Vendor
+232,205,David Abadi ,Cognyte Software Ltd. (Israel),Unchanged,Unchanged,Cognyte,Cognyte,0,Israel,Individual,Vendor
+233,205,Gil Cohen,Cognyte Software Ltd. (Israel),Unchanged,Unchanged,Cognyte,Cognyte,0,Israel,Individual,Vendor
+248,242,Charles Burdick,Comverse Technology Inc.,Unchanged,Unchanged,Cognyte,Cognyte,0,United States,Individual,Holding Company
+230,244,Jason Wright ,Valor Parent LP/ Apax Funds of Apax Partners,Unchanged,Unchanged,Cognyte,Cognyte,0,United Kingdom,Individual,Investor
+248,205,Charles Burdick,Cognyte Software Ltd. (Israel),Unchanged,Unchanged,Cognyte,Cognyte,0,Israel,Individual,Vendor
+249,205,Earl Shanks,Cognyte Software Ltd. (Israel),Unchanged,Unchanged,Cognyte,Cognyte,0,Israel,Individual,Vendor
+250,205,Richard Nottenburg,Cognyte Software Ltd. (Israel),Unchanged,Unchanged,Cognyte,Cognyte,0,Israel,Individual,Vendor
+251,205,Dafna Sharir,Cognyte Software Ltd. (Israel),Unchanged,Unchanged,Cognyte,Cognyte,0,Israel,Individual,Vendor
+252,205,Zvika Naggan,Cognyte Software Ltd. (Israel),Unchanged,Unchanged,Cognyte,Cognyte,0,Israel,Individual,Vendor
+253,205,Karmit Shilo,Cognyte Software Ltd. (Israel),Unchanged,Unchanged,Cognyte,Cognyte,0,Israel,Individual,Vendor
+254,205,Sharon Chouli,Cognyte Software Ltd. (Israel),Unchanged,Unchanged,Cognyte,Cognyte,0,Israel,Individual,Vendor
+255,205,Ziv Levi,Cognyte Software Ltd. (Israel),Unchanged,Unchanged,Cognyte,Cognyte,0,Israel,Individual,Vendor
+256,205,Rini Karlin,Cognyte Software Ltd. (Israel),Unchanged,Unchanged,Cognyte,Cognyte,0,Israel,Individual,Vendor
+257,205,Avi Schechter,Cognyte Software Ltd. (Israel),Unchanged,Unchanged,Cognyte,Cognyte,0,Israel,Individual,Vendor
+258,205,Amit Daniel,Cognyte Software Ltd. (Israel),Unchanged,Unchanged,Cognyte,Cognyte,0,Israel,Individual,Vendor
+259,205,Miki Migdal,Cognyte Software Ltd. (Israel),Unchanged,Unchanged,Cognyte,Cognyte,0,Israel,Individual,Vendor
+226,205,Daniel (Dan) Bodner,Cognyte Software Ltd. (Israel),Unchanged,Unchanged,Cognyte,Cognyte,0,Israel,Individual,Vendor
+199,206,Verint Systems Inc.,Cognyte Analytics India Private Limited    ,Unchanged,Unchanged,Cognyte,Cognyte,United States,India,Vendor,Subsidiary
+263,47,John Alexander Louthean Nelson ,Trophy Investments Limited > Gamma 2000,Unchanged,Changed,Gamma Group,Gamma Group,0,United Kingdom,Individual,Holding Company
+263,54,John Alexander Louthean Nelson ,FinFisher Limited ,Unchanged,Unchanged,Gamma Group,Gamma Group,0,United Kingdom,Individual,Holding Company
+263,52,John Alexander Louthean Nelson ,Gamma International (UK) Limited,Unchanged,Unchanged,Gamma Group,Gamma Group,0,United Kingdom,Individual,Holding Company
+264,47,Pauline Louise Nelson,Trophy Investments Limited > Gamma 2000,Unchanged,Changed,Gamma Group,Gamma Group,0,United Kingdom,Individual,Holding Company
+264,54,Pauline Louise Nelson,FinFisher Limited ,Unchanged,Unchanged,Gamma Group,Gamma Group,0,United Kingdom,Individual,Holding Company
+264,52,Pauline Louise Nelson,Gamma International (UK) Limited,Unchanged,Unchanged,Gamma Group,Gamma Group,0,United Kingdom,Individual,Holding Company
+265,266,CyberRoot Risk Advisory Private Limited > CyberRoot Software Solutions LTD ,CyberRoot Group,Changed,Unchanged,CyberRoot,CyberRoot,India,India,Vendor,Holding Company
+265,268,CyberRoot Risk Advisory Private Limited > CyberRoot Software Solutions LTD ,Cyber Root Limited,Changed,Unchanged,CyberRoot,CyberRoot,India,United Kingdom,Vendor,Holding Company
+265,269,CyberRoot Risk Advisory Private Limited > CyberRoot Software Solutions LTD ,Vijay Singh Bisht,Changed,Unchanged,CyberRoot,CyberRoot,India,0,Vendor,Individual
+265,272,CyberRoot Risk Advisory Private Limited > CyberRoot Software Solutions LTD ,Chiranshu Ahuja,Changed,Unchanged,CyberRoot,CyberRoot,India,0,Vendor,Individual
+265,273,CyberRoot Risk Advisory Private Limited > CyberRoot Software Solutions LTD ,Vibhor Sharma,Changed,Unchanged,CyberRoot,CyberRoot,India,0,Vendor,Individual
+265,274,CyberRoot Risk Advisory Private Limited > CyberRoot Software Solutions LTD ,Nitin Kumar Agarwal,Changed,Unchanged,CyberRoot,CyberRoot,India,0,Vendor,Individual
+265,270,CyberRoot Risk Advisory Private Limited > CyberRoot Software Solutions LTD ,Ankit Kumar Sharma ,Changed,Unchanged,CyberRoot,CyberRoot,India,0,Vendor,Individual
+266,271,CyberRoot Group,Anita,Unchanged,Unchanged,CyberRoot,CyberRoot,India,0,Holding Company,Individual
+72,64,Plath,Intellexa S.A.,Unchanged,Unchanged,Intellexa Consortium,Intellexa Consortium,Germany,Greece,Investor,Vendor
+70,64,Atooro Fund,Intellexa S.A.,Unchanged,Unchanged,Intellexa Consortium,Intellexa Consortium,Israel,Greece,Investor,Vendor
+65,61,Israel Aerospace Industries (IAI),Cytrox AD,Unchanged,Unchanged,Intellexa Consortium,Intellexa Consortium,Israel,North Macedonia,Investor,Vendor
+275,276,Variston IT,Truel,Unchanged,Unchanged,Variston IT,Variston IT,Spain,Italy,Vendor,Subsidiary
+275,277,Variston IT,Ralf Wegener ,Unchanged,Unchanged,Variston IT,Variston IT,Spain,0,Vendor,Individual
+275,278,Variston IT,Ramanan Jayaraman,Unchanged,Unchanged,Variston IT,Variston IT,Spain,0,Vendor,Individual
+279,280,Mollitiam Industries,Samuel Álvarez González,Unchanged,Unchanged,Mollitiam,Mollitiam,Spain,0,Vendor,Individual
+279,281,Mollitiam Industries,Antonio Ramos Varon,Unchanged,Unchanged,Mollitiam,Mollitiam,Spain,0,Vendor,Individual
+279,282,Mollitiam Industries,European Union’s Regional Development Fund,Unchanged,Unchanged,Mollitiam,Mollitiam,Spain,European Union,Vendor,Investor
+279,283,Mollitiam Industries,Torsa Capital,Unchanged,Unchanged,Mollitiam,Mollitiam,Spain,0,Vendor,Investor
+279,284,Mollitiam Industries,Sabadell Venture Capital,Unchanged,Unchanged,Mollitiam,Mollitiam,Spain,0,Vendor,Investor
+279,285,Mollitiam Industries,EASO Ventures,Unchanged,Unchanged,Mollitiam,Mollitiam,Spain,Spain,Vendor,Investor
+279,286,Mollitiam Industries,Centre for the Development of Industrial Technology (CDTI),Unchanged,Unchanged,Mollitiam,Mollitiam,Spain,Spain,Vendor,Investor
+287,288,Positive Technologies AO (Russia),Positive Technologies Global Holding Ltd (United Kingdom),Unchanged,Unchanged,Positive Technologies AO,Positive Technologies AO,Russia,United Kingdom,Vendor,Vendor
+287,289,Positive Technologies AO (Russia),Positive Technologies S.R.L (Italy),Unchanged,Unchanged,Positive Technologies AO,Positive Technologies AO,Russia,Italy,Vendor,Vendor
+287,290,Positive Technologies AO (Russia),Positive Technologies (South Korea),Unchanged,Unchanged,Positive Technologies AO,Positive Technologies AO,Russia,South Korea,Vendor,Vendor
+287,291,Positive Technologies AO (Russia),Positive Technologies (Tunisia),Unchanged,Unchanged,Positive Technologies AO,Positive Technologies AO,Russia,Tunisia,Vendor,Vendor
+287,292,Positive Technologies AO (Russia),Positive Technologies Inc. (United States),Unchanged,Unchanged,Positive Technologies AO,Positive Technologies AO,Russia,United States,Vendor,Vendor
+287,293,Positive Technologies AO (Russia),Partner Data,Unchanged,Unchanged,Positive Technologies AO,Positive Technologies AO,Russia,Italy,Vendor,Partner
+287,294,Positive Technologies AO (Russia),Itway VAD,Unchanged,Unchanged,Positive Technologies AO,Positive Technologies AO,Russia,Italy,Vendor,Supplier
+287,295,Positive Technologies AO (Russia),Positive Technologies Czech s.r.o. (Czech Republic) ,Unchanged,Unchanged,Positive Technologies AO,Positive Technologies AO,Russia,Czech Republic,Vendor,Vendor
+287,296,Positive Technologies AO (Russia),Array Networks Inc.,Unchanged,Unchanged,Positive Technologies AO,Positive Technologies AO,Russia,United States,Vendor,Partner
+287,297,Positive Technologies AO (Russia),NGN International,Unchanged,Unchanged,Positive Technologies AO,Positive Technologies AO,Russia,Bahrain,Vendor,Partner
+287,298,Positive Technologies AO (Russia),ABS MENA,Unchanged,Unchanged,Positive Technologies AO,Positive Technologies AO,Russia,United Arab Emirates,Vendor,Partner
+287,299,Positive Technologies AO (Russia),Digiqore,Unchanged,Unchanged,Positive Technologies AO,Positive Technologies AO,Russia,Bangladesh,Vendor,Partner
+287,300,Positive Technologies AO (Russia),Yuriy Vladimirovich Maksimov,Unchanged,Unchanged,Positive Technologies AO,Positive Technologies AO,Russia,0,Vendor,Individual
+287,301,Positive Technologies AO (Russia),Denis Sergeyevich Baranov,Unchanged,Unchanged,Positive Technologies AO,Positive Technologies AO,Russia,0,Vendor,Individual
+287,302,Positive Technologies AO (Russia),Dmitriy Vladimirovich Maksimov,Unchanged,Unchanged,Positive Technologies AO,Positive Technologies AO,Russia,0,Vendor,Individual
+303,304,Positive Group PJSC,Yevgeniy Vyacheslavovich Kireyev,Unchanged,Unchanged,Positive Technologies AO,Positive Technologies AO,Russia,0,Holding Company,Individual
+303,302,Positive Group PJSC,Dmitriy Vladimirovich Maksimov,Unchanged,Unchanged,Positive Technologies AO,Positive Technologies AO,Russia,0,Holding Company,Individual
+303,300,Positive Group PJSC,Yuriy Vladimirovich Maksimov,Unchanged,Unchanged,Positive Technologies AO,Positive Technologies AO,Russia,0,Holding Company,Individual
+303,287,Positive Group PJSC,Positive Technologies AO (Russia),Unchanged,Unchanged,Positive Technologies AO,Positive Technologies AO,Russia,Russia,Holding Company,Vendor
+46,305,BellTroX Infotech Services Private Ltd,Sumit Gupta,Unchanged,Unchanged,BellTrox,BellTrox,India,0,Vendor,Individual
+307,308,Appin Security Group > Approachinfinate Computer and Security Consultancy Grp. ,Appin Technology Ltd. > Mobile Online Order Management Private Limited > Chemieast Engineering > Sunkissed Organic Farms,Changed,Changed,Appin,Appin,India,India,Vendor,Partner
+307,308,Appin Security Group > Approachinfinate Computer and Security Consultancy Grp. ,Appin Technology Ltd. > Mobile Online Order Management Private Limited > Chemieast Engineering > Sunkissed Organic Farms,Changed,Changed,Appin,Appin,India,India,Vendor,Partner
+307,310,Appin Security Group > Approachinfinate Computer and Security Consultancy Grp. ,Adaptive Control Security Global Corporate,Changed,Unchanged,Appin,Appin,India,India,Vendor,Vendor
+265,307,CyberRoot Risk Advisory Private Limited > CyberRoot Software Solutions LTD ,Appin Security Group > Approachinfinate Computer and Security Consultancy Grp. ,Changed,Changed,Appin,Appin,India,India,Vendor,Vendor
+46,307,BellTroX Infotech Services Private Ltd,Appin Security Group > Approachinfinate Computer and Security Consultancy Grp. ,Unchanged,Changed,Appin,Appin,India,India,Vendor,Vendor
+307,308,Appin Security Group > Approachinfinate Computer and Security Consultancy Grp. ,Appin Technology Ltd. > Mobile Online Order Management Private Limited > Chemieast Engineering > Sunkissed Organic Farms,Changed,Changed,Appin,Appin,India,India,Vendor,Partner
+307,313,Appin Security Group > Approachinfinate Computer and Security Consultancy Grp. ,Rajat Khare  ,Changed,Unchanged,Appin,Appin,India,0,Vendor,Individual
+307,314,Appin Security Group > Approachinfinate Computer and Security Consultancy Grp. ,Anuj Khare,Changed,Unchanged,Appin,Appin,India,0,Vendor,Individual
+315,314,KGW Appin Knowledge Solutions > Appin Knowledge Solutions > Absolute Business Process Holdings,Anuj Khare,Changed,Unchanged,Appin,Appin,India,0,Holding Company,Individual
+307,315,Appin Security Group > Approachinfinate Computer and Security Consultancy Grp. ,KGW Appin Knowledge Solutions > Appin Knowledge Solutions > Absolute Business Process Holdings,Changed,Changed,Appin,Appin,India,India,Vendor,Holding Company
+307,316,Appin Security Group > Approachinfinate Computer and Security Consultancy Grp. ,Appin Overseas Private Limited > Prophecis Analytics and Consulting > Smart Repute Social Mobile Analytics Cloud > Nova Big Data Analytics,Changed,Changed,Appin,Appin,India,India,Vendor,Holding Company
+307,317,Appin Security Group > Approachinfinate Computer and Security Consultancy Grp. ,Wynard India Private Limited,Changed,Unchanged,Appin,Appin,India,India,Vendor,Holding Company
+307,318,Appin Security Group > Approachinfinate Computer and Security Consultancy Grp. ,Boundry Holding SRL,Changed,Unchanged,Appin,Appin,India,India,Vendor,Holding Company
+315,319,KGW Appin Knowledge Solutions > Appin Knowledge Solutions > Absolute Business Process Holdings,Individual,Changed,Unchanged,Appin,Appin,India,0,Holding Company,Individual
+320,321,Aglaya Scientific Aerospace Technology Systems Private Limited ,Ankur Srivastava,Unchanged,Unchanged,Aglaya Scientific Aerospace Technology Systems Private Limited,Aglaya Scientific Aerospace Technology Systems Private Limited,India,0,Vendor,Individual
+320,322,Aglaya Scientific Aerospace Technology Systems Private Limited ,Yerha Ebuzz Private Limited > Yerha Online Private Limited ,Unchanged,Changed,Aglaya Scientific Aerospace Technology Systems Private Limited,Aglaya Scientific Aerospace Technology Systems Private Limited,India,India,Vendor,Holding Company
+320,323,Aglaya Scientific Aerospace Technology Systems Private Limited ,Inder Mohan Jain ,Unchanged,Unchanged,Aglaya Scientific Aerospace Technology Systems Private Limited,Aglaya Scientific Aerospace Technology Systems Private Limited,India,0,Vendor,Individual
+320,324,Aglaya Scientific Aerospace Technology Systems Private Limited ,Mani Kant Jain,Unchanged,Unchanged,Aglaya Scientific Aerospace Technology Systems Private Limited,Aglaya Scientific Aerospace Technology Systems Private Limited,India,0,Vendor,Individual
+326,327,Leo Impact Security Service PVT Ltd,Leo Impact Security s.r.o.,Unchanged,Unchanged,Leo Impact,Leo Impact,India,Czech Republic,Vendor,Vendor
+326,328,Leo Impact Security Service PVT Ltd,Manish Kumar,Unchanged,Unchanged,Leo Impact,Leo Impact,India,0,Vendor,Individual
+326,329,Leo Impact Security Service PVT Ltd,Amit Kulhari,Unchanged,Unchanged,Leo Impact,Leo Impact,India,0,Vendor,Individual
+330,326,Sunita Devi,Leo Impact Security Service PVT Ltd,Unchanged,Unchanged,Leo Impact,Leo Impact,0,India,Individual,Vendor
+321,326,Ankur Srivastava,Leo Impact Security Service PVT Ltd,Unchanged,Unchanged,Leo Impact,Leo Impact,0,India,Individual,Vendor
+327,328,Leo Impact Security s.r.o.,Manish Kumar,Unchanged,Unchanged,Leo Impact,Leo Impact,Czech Republic,0,Vendor,Individual
+331,332,Equus Technologies > MerlinX Ltd,Own BackUp > Own Company (Israel),Changed,Changed,MerlinX Ltd,MerlinX Ltd,Israel,Israel,Vendor,Investor
+331,333,Equus Technologies > MerlinX Ltd,Own Company (United States),Changed,Unchanged,MerlinX Ltd,MerlinX Ltd,Israel,United States,Vendor,Investor
+331,334,Equus Technologies > MerlinX Ltd,Matan Markovics,Changed,Unchanged,MerlinX Ltd,MerlinX Ltd,Israel,0,Vendor,Individual
+331,335,Equus Technologies > MerlinX Ltd,Daniel Hanga,Changed,Unchanged,MerlinX Ltd,MerlinX Ltd,Israel,0,Vendor,Individual
+331,336,Equus Technologies > MerlinX Ltd,Amihai Neiderman,Changed,Unchanged,MerlinX Ltd,MerlinX Ltd,Israel,0,Vendor,Individual
+331,337,Equus Technologies > MerlinX Ltd,Mathanya Markovich,Changed,Unchanged,MerlinX Ltd,MerlinX Ltd,Israel,0,Vendor,Individual
+331,338,Equus Technologies > MerlinX Ltd,Avichai Stolero,Changed,Unchanged,MerlinX Ltd,MerlinX Ltd,Israel,0,Vendor,Individual
+331,339,Equus Technologies > MerlinX Ltd,Sharon Fortzer,Changed,Unchanged,MerlinX Ltd,MerlinX Ltd,Israel,0,Vendor,Individual
+331,340,Equus Technologies > MerlinX Ltd,Bindency,Changed,Unchanged,MerlinX Ltd,MerlinX Ltd,Israel,Israel,Vendor,Holding Company
+331,341,Equus Technologies > MerlinX Ltd,Golden Point Inc.,Changed,Unchanged,MerlinX Ltd,MerlinX Ltd,Israel,Israel,Vendor,Investor
+331,342,Equus Technologies > MerlinX Ltd,I.B.I. Trust Management,Changed,Unchanged,MerlinX Ltd,MerlinX Ltd,Israel,Israel,Vendor,Investor
+331,343,Equus Technologies > MerlinX Ltd,OwnBackUp UK Limited,Changed,Unchanged,MerlinX Ltd,MerlinX Ltd,Israel,United Kingdom,Vendor,Investor
+331,344,Equus Technologies > MerlinX Ltd,OwnBackUp UK Limited,Changed,Unchanged,MerlinX Ltd,MerlinX Ltd,Israel,France,Vendor,Investor
+331,345,Equus Technologies > MerlinX Ltd,OwnBackup GmbH,Changed,Unchanged,MerlinX Ltd,MerlinX Ltd,Israel,Germany,Vendor,Investor
+331,346,Equus Technologies > MerlinX Ltd,OwnBackUp (Australia),Changed,Unchanged,MerlinX Ltd,MerlinX Ltd,Israel,Australia,Vendor,Investor
+331,347,Equus Technologies > MerlinX Ltd,Individual Investor,Changed,Unchanged,MerlinX Ltd,MerlinX Ltd,Israel,0,Vendor,Investor
+348,349,Computer Security Initiative Consultancy PTE LTD,Thomas Lim,Unchanged,Unchanged,Computer Security Initiative,Computer Security Initiative,Singapore,0,Supplier,Individual
+358,361,Aurora S.p.A. > RCS Group,Cy4Gate,Changed,Unchanged,RCS Labs,RCS Labs,Italy,Italy,Investor,Investor
+353,352,RCS MEA DMCC,RCS ETM Sicurezza S.p.A.,Unchanged,Unchanged,RCS Labs,RCS Labs,United Arab Emirates,Italy,Vendor,Vendor
+353,355,RCS MEA DMCC,Vytautas Celiesius,Unchanged,Unchanged,RCS Labs,RCS Labs,United Arab Emirates,0,Vendor,Individual
+354,356,Tykelab Srl,Marco Latini,Unchanged,Unchanged,RCS Labs,RCS Labs,Italy,0,Partner,Individual
+358,352,Aurora S.p.A. > RCS Group,RCS ETM Sicurezza S.p.A.,Changed,Unchanged,RCS Labs,RCS Labs,Italy,Italy,Investor,Vendor
+361,358,Cy4Gate,Aurora S.p.A. > RCS Group,Unchanged,Changed,RCS Labs,RCS Labs,Italy,Italy,Investor,Investor
+361,360,Cy4Gate,Società Elettronica S.p.A.,Unchanged,Unchanged,RCS Labs,RCS Labs,Italy,Italy,Investor,Investor
+363,360,The Equity Club (TEC),Società Elettronica S.p.A.,Unchanged,Unchanged,RCS Labs,RCS Labs,Italy,Italy,Investor,Investor
+363,362,The Equity Club (TEC),TEC Cyber,Unchanged,Unchanged,RCS Labs,RCS Labs,Italy,Italy,Investor,Holding Company
+361,365,Cy4Gate,Emanuele Galtieri  ,Unchanged,Unchanged,RCS Labs,RCS Labs,Italy,0,Investor,Individual
+361,366,Cy4Gate,Domitilla Benigni,Unchanged,Unchanged,RCS Labs,RCS Labs,Italy,0,Investor,Individual
+361,368,Cy4Gate,Roberto Ferraresi,Unchanged,Unchanged,RCS Labs,RCS Labs,Italy,0,Investor,Individual
+364,369,BlueOcean Technologies Ltd,Rami Ben Efraim,Unchanged,Unchanged,Blue Ocean Technologies,Blue Ocean Technologies,Israel,0,Supplier,Individual
+364,370,BlueOcean Technologies Ltd,Col. Ron Tira,Unchanged,Unchanged,Blue Ocean Technologies,Blue Ocean Technologies,Israel,0,Supplier,Individual
+364,371,BlueOcean Technologies Ltd,Avi Rosen,Unchanged,Unchanged,Blue Ocean Technologies,Blue Ocean Technologies,Israel,0,Supplier,Individual
+364,372,BlueOcean Technologies Ltd,Island Giora,Unchanged,Unchanged,Blue Ocean Technologies,Blue Ocean Technologies,Israel,0,Supplier,Individual
+364,373,BlueOcean Technologies Ltd,David Brenner,Unchanged,Unchanged,Blue Ocean Technologies,Blue Ocean Technologies,Israel,0,Supplier,Individual
+364,374,BlueOcean Technologies Ltd,Rosen Avraham Ze'ev,Unchanged,Unchanged,Blue Ocean Technologies,Blue Ocean Technologies,Israel,0,Supplier,Individual
+364,375,BlueOcean Technologies Ltd,David Brenner Ltd.,Unchanged,Unchanged,Blue Ocean Technologies,Blue Ocean Technologies,Israel,Israel,Supplier,Investor
+364,376,BlueOcean Technologies Ltd,Lee and Rami Ben-Ephraim Ltd.,Unchanged,Unchanged,Blue Ocean Technologies,Blue Ocean Technologies,Israel,Israel,Supplier,Investor
+364,377,BlueOcean Technologies Ltd,Tira Enterprises Ltd.,Unchanged,Unchanged,Blue Ocean Technologies,Blue Ocean Technologies,Israel,Israel,Supplier,Investor
+375,373,David Brenner Ltd.,David Brenner,Unchanged,Unchanged,Blue Ocean Technologies,Blue Ocean Technologies,Israel,0,Investor,Individual
+376,369,Lee and Rami Ben-Ephraim Ltd.,Rami Ben Efraim,Unchanged,Unchanged,Blue Ocean Technologies,Blue Ocean Technologies,Israel,0,Investor,Individual
+377,370,Tira Enterprises Ltd.,Col. Ron Tira,Unchanged,Unchanged,Blue Ocean Technologies,Blue Ocean Technologies,Israel,0,Investor,Individual
+378,381,Movia SPA,Sistema Investimenti,Unchanged,Unchanged,Movia,Movia,Italy,Italy,Vendor,Holding Company
+378,379,Movia SPA,BIOSS,Unchanged,Unchanged,Movia,Movia,Italy,Italy,Vendor,Subsidiary
+378,380,Movia SPA,Luca Spina,Unchanged,Unchanged,Movia,Movia,Italy,0,Vendor,Individual
+381,382,Sistema Investimenti,Individual,Unchanged,Unchanged,Movia,Movia,Italy,0,Holding Company,Individual
+381,383,Sistema Investimenti,Antonio Ernesto Zangara,Unchanged,Unchanged,Movia,Movia,Italy,0,Holding Company,Individual
+384,385,InvaSys a.s.,YX Systems Kft.,Unchanged,Unchanged,InvaSys a.s.,InvaSys a.s.,Czech Republic,Czech Republic,Vendor,Partner
+384,386,InvaSys a.s.,Adcudo Invest s.r.o.,Unchanged,Unchanged,InvaSys a.s.,InvaSys a.s.,Czech Republic,Czech Republic,Vendor,Partner
+384,387,InvaSys a.s.,Kyrre Sletsjøe ,Unchanged,Unchanged,InvaSys a.s.,InvaSys a.s.,Czech Republic,0,Vendor,Individual
+384,388,InvaSys a.s.,Euan John Macara,Unchanged,Unchanged,InvaSys a.s.,InvaSys a.s.,Czech Republic,0,Vendor,Individual
+385,387,YX Systems Kft.,Kyrre Sletsjøe ,Unchanged,Unchanged,InvaSys a.s.,InvaSys a.s.,Czech Republic,0,Partner,Individual
+386,389,Adcudo Invest s.r.o.,Martina Sletsjøe ,Unchanged,Unchanged,InvaSys a.s.,InvaSys a.s.,Czech Republic,0,Partner,Individual
+384,390,InvaSys a.s.,Thomas Westby Jensen,Unchanged,Unchanged,InvaSys a.s.,InvaSys a.s.,Czech Republic,0,Vendor,Individual
+391,392,Operation Zero,Sergei Zelenyuk,Unchanged,Unchanged,Operation Zero,Operation Zero,Russia,0,Supplier,Individual
+391,393,Operation Zero,Anonymous,Unchanged,Unchanged,Operation Zero,Operation Zero,Russia,Russia,Supplier,Investor
+394,395,Vupen Security S.A. > Zerodium LLC,Vista Incorporations Limited,Changed,Unchanged,Zerodium LLC,Zerodium LLC,France,United States,Supplier,Supplier
+396,394,Chaouki Bekrar ,Vupen Security S.A. > Zerodium LLC,Unchanged,Changed,Zerodium LLC,Zerodium LLC,0,France,Individual,Supplier
+397,394,Isabelle Gorius ,Vupen Security S.A. > Zerodium LLC,Unchanged,Changed,Zerodium LLC,Zerodium LLC,0,France,Individual,Supplier
+398,394,Gant & Partners,Vupen Security S.A. > Zerodium LLC,Unchanged,Changed,Zerodium LLC,Zerodium LLC,Belgium,France,Investor,Supplier
+399,394,360° Capital Partners (Italy),Vupen Security S.A. > Zerodium LLC,Unchanged,Changed,Zerodium LLC,Zerodium LLC,Italy,France,Investor,Supplier
+400,394,360° Capital Partners (France),Vupen Security S.A. > Zerodium LLC,Unchanged,Changed,Zerodium LLC,Zerodium LLC,France,France,Investor,Supplier
+401,400,Emanuele Levi,360° Capital Partners (France),Unchanged,Unchanged,Zerodium LLC,Zerodium LLC,0,France,Individual,Investor
+402,400,Dominique Rencurel,360° Capital Partners (France),Unchanged,Unchanged,Zerodium LLC,Zerodium LLC,0,France,Individual,Investor
+403,400,Cesare Maifredi,360° Capital Partners (France),Unchanged,Unchanged,Zerodium LLC,Zerodium LLC,0,France,Individual,Investor
+404,400,Alexandre Mordacq,360° Capital Partners (France),Unchanged,Unchanged,Zerodium LLC,Zerodium LLC,0,France,Individual,Investor
+405,406,Negg Group S.R.L,Negg International,Unchanged,Unchanged,Negg Group,Negg Group,Italy,Netherlands,Vendor,Vendor
+405,407,Negg Group S.R.L,Francesco Taccone,Unchanged,Unchanged,Negg Group,Negg Group,Italy,0,Vendor,Individual
+405,408,Negg Group S.R.L,Italian Ministry of Economic Development and General Directorate for Business Incentives,Unchanged,Unchanged,Negg Group,Negg Group,Italy,Italy,Vendor,Investor
+405,409,Negg Group S.R.L,Paolo Frascati,Unchanged,Unchanged,Negg Group,Negg Group,Italy,0,Vendor,Individual
+410,411,Protect Electronic Systems LLC,Awad Al Shamsi  ,Unchanged,Unchanged,Protect Electronic Systems LLC,Protect Electronic Systems LLC,United Arab Emirates,0,Supplier,Individual
+410,412,Protect Electronic Systems LLC,Edge Group,Unchanged,Unchanged,Protect Electronic Systems LLC,Protect Electronic Systems LLC,United Arab Emirates,United Arab Emirates,Supplier,Investor
+412,413,Edge Group,Mansour Al Mulla  ,Unchanged,Unchanged,Protect Electronic Systems LLC,Protect Electronic Systems LLC,United Arab Emirates,0,Investor,Individual
+412,414,Edge Group,Hamad Al Marar,Unchanged,Unchanged,Protect Electronic Systems LLC,Protect Electronic Systems LLC,United Arab Emirates,0,Investor,Individual
+415,416,Crowdfense Limited,Andrea Zapparoli Manzoni ,Unchanged,Unchanged,Crowdfense,Crowdfense,United Arab Emirates,0,Supplier,Individual
+415,417,Crowdfense Limited,Paolo Stagno ,Unchanged,Unchanged,Crowdfense,Crowdfense,United Arab Emirates,0,Supplier,Individual
+418,419,Azimuth Security ,Linchpin Labs,Unchanged,Unchanged,Azimuth,Azimuth,Australia,Canada,Supplier,Partner
+418,420,Azimuth Security ,Trenchant Group (Australia),Unchanged,Unchanged,Azimuth,Azimuth,Australia,Australia,Supplier,Supplier
+418,421,Azimuth Security ,Trenchant Group (United States),Unchanged,Unchanged,Azimuth,Azimuth,Australia,United States,Supplier,Supplier
+418,422,Azimuth Security ,Trenchant Group (United Kingdom),Unchanged,Unchanged,Azimuth,Azimuth,Australia,United Kingdom,Supplier,Supplier
+418,423,Azimuth Security ,L3Harris Trenchant LTD,Unchanged,Unchanged,Azimuth,Azimuth,Australia,United Kingdom,Supplier,Supplier
+418,424,Azimuth Security ,L3Harris Trenchant Canada Inc.,Unchanged,Unchanged,Azimuth,Azimuth,Australia,Canada,Supplier,Supplier
+418,425,Azimuth Security ,L3Harris Azimuth Security PTY,Unchanged,Unchanged,Azimuth,Azimuth,Australia,Australia,Supplier,Supplier
+418,426,Azimuth Security ,Mark Down,Unchanged,Unchanged,Azimuth,Azimuth,Australia,0,Supplier,Individual
+418,427,Azimuth Security ,John McDonald,Unchanged,Unchanged,Azimuth,Azimuth,Australia,0,Supplier,Individual
+418,428,Azimuth Security ,L3Harris,Unchanged,Unchanged,Azimuth,Azimuth,Australia,United States,Supplier,Investor
+419,428,Linchpin Labs,L3Harris,Unchanged,Unchanged,Azimuth,Azimuth,Canada,United States,Partner,Investor
+419,429,Linchpin Labs,L3Harris Technologies,Unchanged,Unchanged,Azimuth,Azimuth,Canada,United States,Partner,Investor
+430,431,PARS Defense,Ibrahim Baliç,Unchanged,Unchanged,PARS Defense,PARS Defense,Turkey,0,Supplier,Individual
+432,433,DataForense s.r.l,Annunziata Cirillo,Unchanged,Unchanged,Dataforense,Dataforense,Italy,0,Vendor,Individual
+434,435,Dataflow Security s.r.l.,Dataflow Forensics,Unchanged,Unchanged,Dataflow Security DFSEC ,Dataflow Security DFSEC ,Italy,United States,Vendor,Subsidiary
+434,436,Dataflow Security s.r.l.,Dataflow Security Spain SL,Unchanged,Unchanged,Dataflow Security DFSEC ,Dataflow Security DFSEC ,Italy,Spain,Vendor,Partner
+434,437,Dataflow Security s.r.l.,Random Research,Unchanged,Unchanged,Dataflow Security DFSEC ,Dataflow Security DFSEC ,Italy,Israel,Vendor,Subsidiary
+434,438,Dataflow Security s.r.l.,Ofer Cohen,Unchanged,Unchanged,Dataflow Security DFSEC ,Dataflow Security DFSEC ,Italy,0,Vendor,Individual
+435,439,Dataflow Forensics,Jonathan Levin,Unchanged,Unchanged,Dataflow Security DFSEC ,Dataflow Security DFSEC ,United States,0,Subsidiary,Individual
+435,440,Dataflow Forensics,John Aakerblom,Unchanged,Unchanged,Dataflow Security DFSEC ,Dataflow Security DFSEC ,United States,0,Subsidiary,Individual
+436,441,Dataflow Security Spain SL,Andrea Todesco,Unchanged,Unchanged,Dataflow Security DFSEC ,Dataflow Security DFSEC ,Spain,0,Partner,Individual
+436,442,Dataflow Security Spain SL,Federica Marin,Unchanged,Unchanged,Dataflow Security DFSEC ,Dataflow Security DFSEC ,Spain,0,Partner,Individual
+436,443,Dataflow Security Spain SL,Paolo Ronco,Unchanged,Unchanged,Dataflow Security DFSEC ,Dataflow Security DFSEC ,Spain,0,Partner,Individual
+434,444,Dataflow Security s.r.l.,Jonathan Shuman,Unchanged,Unchanged,Dataflow Security DFSEC ,Dataflow Security DFSEC ,Italy,0,Vendor,Individual
+435,439,Dataflow Forensics,Jonathan Levin,Unchanged,Unchanged,Dataflow Security DFSEC ,Dataflow Security DFSEC ,United States,0,Subsidiary,Individual
+435,440,Dataflow Forensics,John Aakerblom,Unchanged,Unchanged,Dataflow Security DFSEC ,Dataflow Security DFSEC ,United States,0,Subsidiary,Individual
+437,438,Random Research,Ofer Cohen,Unchanged,Unchanged,Dataflow Security DFSEC ,Dataflow Security DFSEC ,Israel,0,Subsidiary,Individual
+434,445,Dataflow Security s.r.l.,Banca del Mezzogiorno MedioCredito Centrale S.p.A.,Unchanged,Unchanged,Dataflow Security DFSEC ,Dataflow Security DFSEC ,Italy,Italy,Vendor,Investor
+446,447,DSIRF GmbH,MLS Machine Learning Solutions (Austria),Unchanged,Unchanged,DSIRF,DSIRF,Austria,Austria,Vendor,Subsidiary
+446,448,DSIRF GmbH,MLS Machine Learning Solutions (Spain),Unchanged,Unchanged,DSIRF,DSIRF,Austria,Spain,Vendor,Subsidiary
+446,449,DSIRF GmbH,Stefan Gesselbauer,Unchanged,Unchanged,DSIRF,DSIRF,Austria,0,Vendor,Individual
+446,450,DSIRF GmbH,Julian Thomas Erdödy,Unchanged,Unchanged,DSIRF,DSIRF,Austria,0,Vendor,Individual
+446,453,DSIRF GmbH,DSR Decision Supporting Information Research Forensic GmBh,Unchanged,Unchanged,DSIRF,DSIRF,Austria,Austria,Vendor,Investor
+452,453,Deep Dive Research AG,DSR Decision Supporting Information Research Forensic GmBh,Unchanged,Unchanged,DSIRF,DSIRF,Liechtenstein,Austria,Investor,Investor
+451,446,DSIRF Decision Supporting Information Research and Forensic Ltd,DSIRF GmbH,Unchanged,Unchanged,DSIRF,DSIRF,Switzerland,Austria,Holding Company,Vendor
+322,325,Yerha Ebuzz Private Limited > Yerha Online Private Limited ,Ritu Jain,Changed,Unchanged,Aglaya Scientific Aerospace Technology Systems Private Limited,Aglaya Scientific Aerospace Technology Systems Private Limited,India,0,Holding Company,Individual
+350,351,Rebsec Solutions,Vishvadeep Singh,Unchanged,Unchanged,Rebsec,Rebsec,India,0,Supplier,Individual
+444,1,Jonathan Shuman,NSO Group,Unchanged,Unchanged,NSO Group,NSO Group,0,Israel,Individual,Vendor
+354,352,Tykelab Srl,RCS ETM Sicurezza S.p.A.,Unchanged,Unchanged,RCS Labs,RCS Labs,Italy,Italy,Partner,Vendor
+355,63,Vytautas Celiesius,Trovicor fz/Trovicor Intelligence,Unchanged,Unchanged,Intellexa Consortium,Intellexa Consortium,0,United Arab Emirates,Individual,Partner
+305,307,Sumit Gupta,Appin Security Group > Approachinfinate Computer and Security Consultancy Grp. ,Unchanged,Changed,Appin,Appin,0,India,Individual,Vendor
+46,265,BellTroX Infotech Services Private Ltd,CyberRoot Risk Advisory Private Limited > CyberRoot Software Solutions LTD ,Unchanged,Changed,CyberRoot,CyberRoot,India,India,Vendor,Vendor
+30,352,Hacking Team Srl (Italy) > Memento Labs Srl,RCS ETM Sicurezza S.p.A.,Changed,Unchanged,RCS Labs,RCS Labs,Italy,Italy,Vendor,Vendor
+265,321,CyberRoot Risk Advisory Private Limited > CyberRoot Software Solutions LTD ,Ankur Srivastava,Changed,Unchanged,Aglaya Scientific Aerospace Technology Systems Private Limited,Aglaya Scientific Aerospace Technology Systems Private Limited,India,0,Vendor,Individual
+199,1,Verint Systems Inc.,NSO Group,Unchanged,Unchanged,NSO Group,NSO Group,United States,Israel,Vendor,Vendor
+358,354,Aurora S.p.A. > RCS Group,Tykelab Srl,Changed,Unchanged,RCS Labs,RCS Labs,Italy,Italy,Investor,Partner
+303,454,Positive Group PJSC,Aleksey Vyacheslavovich Andreyev,Unchanged,Unchanged,Positive Technologies AO,Positive Technologies AO,Russia,0,Holding Company,Individual
+303,455,Positive Group PJSC,Boris Borisovich Simis,Unchanged,Unchanged,Positive Technologies AO,Positive Technologies AO,Russia,0,Holding Company,Individual
+303,456,Positive Group PJSC,Andrey Kuzin ,Unchanged,Unchanged,Positive Technologies AO,Positive Technologies AO,Russia,0,Holding Company,Individual
+352,367,RCS ETM Sicurezza S.p.A.,Simon Thewes,Unchanged,Unchanged,RCS Labs,RCS Labs,Italy,0,Vendor,Investor
+287,457,Positive Technologies AO (Russia),Positive Technologies Global Solutions Ltd (United Kingdom),Unchanged,Unchanged,Positive Technologies AO,Positive Technologies AO,Russia,United Kingdom,Vendor,Vendor
+287,458,Positive Technologies AO (Russia),Positive Technologies Holding AG (Switzerland),Unchanged,Unchanged,Positive Technologies AO,Positive Technologies AO,Russia,Switzerland,Vendor,Vendor
+287,459,Positive Technologies AO (Russia),Positive Technologies S.R.L (Romania) ,Unchanged,Unchanged,Positive Technologies AO,Positive Technologies AO,Russia,Romania,Vendor,Vendor
